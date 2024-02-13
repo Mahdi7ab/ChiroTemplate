@@ -1,0 +1,514 @@
+@font-face {
+
+    font-family: "flaticon_mycollection";
+
+    src: url("../fonts/flaticon_mycollection03d5.ttf?5203ecf6a68864f0d4197ecf12294650") format("truetype"),
+
+url("../fonts/flaticon_mycollection03d5.woff?5203ecf6a68864f0d4197ecf12294650") format("woff"),
+
+url("../fonts/flaticon_mycollection03d5.woff2?5203ecf6a68864f0d4197ecf12294650") format("woff2"),
+
+url("../fonts/flaticon_mycollection03d5.eot?5203ecf6a68864f0d4197ecf12294650#iefix") format("embedded-opentype"),
+
+url("../fonts/flaticon_mycollection03d5.svg?5203ecf6a68864f0d4197ecf12294650#flaticon_mycollection") format("svg");
+
+}
+
+
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+
+    font-family: flaticon_mycollection !important;
+
+    font-style: normal;
+
+    font-weight: normal !important;
+
+    font-variant: normal;
+
+    text-transform: none;
+
+    line-height: inherit;
+
+    -webkit-font-smoothing: antialiased;
+
+    -moz-osx-font-smoothing: grayscale;
+
+}
+
+
+
+.flaticon-whatsapp:before {
+
+    content: "\f101";
+
+}
+
+.flaticon-twitter:before {
+
+    content: "\f102";
+
+}
+
+.flaticon-instagram:before {
+
+    content: "\f103";
+
+}
+
+.flaticon-behance:before {
+
+    content: "\f104";
+
+}
+
+.flaticon-youtube:before {
+
+    content: "\f105";
+
+}
+
+.flaticon-pinterest:before {
+
+    content: "\f106";
+
+}
+
+.flaticon-snapchat:before {
+
+    content: "\f107";
+
+}
+
+.flaticon-skype:before {
+
+    content: "\f108";
+
+}
+
+.flaticon-twitter-1:before {
+
+    content: "\f109";
+
+}
+
+.flaticon-facebook:before {
+
+    content: "\f10a";
+
+}
+
+.flaticon-linkedin:before {
+
+    content: "\f10b";
+
+}
+
+.flaticon-messenger:before {
+
+    content: "\f10c";
+
+}
+
+.flaticon-soundcloud:before {
+
+    content: "\f10d";
+
+}
+
+.flaticon-vimeo:before {
+
+    content: "\f10e";
+
+}
+
+.flaticon-github:before {
+
+    content: "\f10f";
+
+}
+
+.flaticon-vk:before {
+
+    content: "\f110";
+
+}
+
+.flaticon-chiropractic:before {
+
+    content: "\f111";
+
+}
+
+.flaticon-massage:before {
+
+    content: "\f112";
+
+}
+
+.flaticon-spinal-column:before {
+
+    content: "\f113";
+
+}
+
+.flaticon-chiropractic-1:before {
+
+    content: "\f114";
+
+}
+
+.flaticon-body:before {
+
+    content: "\f115";
+
+}
+
+.flaticon-chiropractic-2:before {
+
+    content: "\f116";
+
+}
+
+.flaticon-massage-1:before {
+
+    content: "\f117";
+
+}
+
+.flaticon-massage-2:before {
+
+    content: "\f118";
+
+}
+
+.flaticon-chiropractic-3:before {
+
+    content: "\f119";
+
+}
+
+.flaticon-massage-3:before {
+
+    content: "\f11a";
+
+}
+
+.flaticon-chiropractic-4:before {
+
+    content: "\f11b";
+
+}
+
+.flaticon-acupressure:before {
+
+    content: "\f11c";
+
+}
+
+.flaticon-physical-therapy:before {
+
+    content: "\f11d";
+
+}
+
+.flaticon-yoga:before {
+
+    content: "\f11e";
+
+}
+
+.flaticon-physics:before {
+
+    content: "\f11f";
+
+}
+
+.flaticon-physical-therapy-1:before {
+
+    content: "\f120";
+
+}
+
+.flaticon-physiotherapist:before {
+
+    content: "\f121";
+
+}
+
+.flaticon-injury:before {
+
+    content: "\f122";
+
+}
+
+.flaticon-exercise:before {
+
+    content: "\f123";
+
+}
+
+.flaticon-examination:before {
+
+    content: "\f124";
+
+}
+
+.flaticon-examination-1:before {
+
+    content: "\f125";
+
+}
+
+.flaticon-physical-therapy-2:before {
+
+    content: "\f126";
+
+}
+
+.flaticon-pain:before {
+
+    content: "\f127";
+
+}
+
+.flaticon-exercise-1:before {
+
+    content: "\f128";
+
+}
+
+.flaticon-elbow:before {
+
+    content: "\f129";
+
+}
+
+.flaticon-exercise-2:before {
+
+    content: "\f12a";
+
+}
+
+.flaticon-nursing:before {
+
+    content: "\f12b";
+
+}
+
+.flaticon-wrist:before {
+
+    content: "\f12c";
+
+}
+
+.flaticon-woman:before {
+
+    content: "\f12d";
+
+}
+
+.flaticon-women:before {
+
+    content: "\f12e";
+
+}
+
+.flaticon-exercise-3:before {
+
+    content: "\f12f";
+
+}
+
+.flaticon-clipboard:before {
+
+    content: "\f130";
+
+}
+
+.flaticon-yoga-1:before {
+
+    content: "\f131";
+
+}
+
+.flaticon-yoga-pose:before {
+
+    content: "\f132";
+
+}
+
+.flaticon-knee:before {
+
+    content: "\f133";
+
+}
+
+.flaticon-pain-1:before {
+
+    content: "\f134";
+
+}
+
+.flaticon-exercise-4:before {
+
+    content: "\f135";
+
+}
+
+.flaticon-medical:before {
+
+    content: "\f136";
+
+}
+
+.flaticon-consulting:before {
+
+    content: "\f137";
+
+}
+
+.flaticon-service:before {
+
+    content: "\f138";
+
+}
+
+.flaticon-clinic:before {
+
+    content: "\f139";
+
+}
+
+.flaticon-goal:before {
+
+    content: "\f13a";
+
+}
+
+.flaticon-target:before {
+
+    content: "\f13b";
+
+}
+
+.flaticon-ambulance:before {
+
+    content: "\f13c";
+
+}
+
+.flaticon-facial-massage:before {
+
+    content: "\f13d";
+
+}
+
+.flaticon-foot-massage:before {
+
+    content: "\f13e";
+
+}
+
+.flaticon-massager:before {
+
+    content: "\f13f";
+
+}
+
+.flaticon-neck-massage:before {
+
+    content: "\f140";
+
+}
+
+.flaticon-massage-4:before {
+
+    content: "\f141";
+
+}
+
+.flaticon-massage-5:before {
+
+    content: "\f142";
+
+}
+
+.flaticon-massage-6:before {
+
+    content: "\f143";
+
+}
+
+.flaticon-painful:before {
+
+    content: "\f144";
+
+}
+
+.flaticon-pain-2:before {
+
+    content: "\f145";
+
+}
+
+.flaticon-foot:before {
+
+    content: "\f146";
+
+}
+
+.flaticon-physiotherapy:before {
+
+    content: "\f147";
+
+}
+
+.flaticon-calf:before {
+
+    content: "\f148";
+
+}
+
+.flaticon-exercise-ball:before {
+
+    content: "\f149";
+
+}
+
+.flaticon-shoulder:before {
+
+    content: "\f14a";
+
+}
+
+.flaticon-magnet:before {
+
+    content: "\f14b";
+
+}
+
+.flaticon-chest-pain:before {
+
+    content: "\f14c";
+
+}
+
+.flaticon-wound:before {
+
+    content: "\f14d";
+
+}
+
+.flaticon-elbow-1:before {
+
+    content: "\f14e";
+
+}
+
+.flaticon-toothache:before {
+
+    content: "\f14f";
+
+}
+
